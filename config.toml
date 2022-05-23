@@ -1,4 +1,0 @@
-baseURL = 'https://leaves.github.io/'
-languageCode = 'en-us'
-title = 'Red leaves site'
-theme = "gohugo-theme-ananke-2.9.0"
